@@ -32,3 +32,5 @@ Noise | Audio Player | Noise is a fast and beautiful GTK3 audio player with a fo
 Midori | Browser | Midori is a fast little WebKit browser with support for HTML5 | https://launchpad.net/midori | elementary-os/stable | midori | 0.5.7 | Yes | No
 Maya | Calendar | A slim, lightweight GTK+3 calendar app | https://launchpad.net/maya | elementary-os/stable | maya-calendar | 0.3 | Yes | No
 Files | File Browser | The simple, powerful, and sexy file manager from elementary | https://launchpad.net/pantheon-files | elementary-os/stable | pantheon-files | 0.1.6 | Yes | No
+
+Audience | Video Player | A modern video player that brings the lessons learned from the web home to the desktop | https://launchpad.net/audience | audience-members/ppa | audience | In Developement | Yes | No

@@ -12,3 +12,4 @@ Terminal | Terminal | A super lightweight, beautiful, and simple terminal | http
 Scratch | Text Editor | The text editor that works | https://launchpad.net/scratch | elementary-os/stable | scratch-text-editor | 2.0.2 | Yes | No
 Noise | Audio Player | Noise is a fast and beautiful GTK3 audio player with a focus on music and libraries | https://launchpad.net/noise | elementary-os/stable | noise | 0.3.0 | Yes | No
 Midori | Brwoser | Midori is a fast little WebKit browser with support for HTML5 | https://launchpad.net/midori | elementary-os/stable | midori | 0.5.7 | Yes | No
+Maya | Calendar | A slim, lightweight GTK+3 calendar app | https://launchpad.net/maya | elementary-os/stable | maya-calendar | 0.3 | Yes | No

@@ -34,3 +34,4 @@ Maya | Calendar | A slim, lightweight GTK+3 calendar app | https://launchpad.net
 Files | File Browser | The simple, powerful, and sexy file manager from elementary | https://launchpad.net/pantheon-files | elementary-os/stable | pantheon-files | 0.1.6 | Yes | No
 
 Audience | Video Player | A modern video player that brings the lessons learned from the web home to the desktop | https://launchpad.net/audience | audience-members/ppa | audience | In Developement | Yes | No
+AppCenter | App Store | A fast and beautiful app store | https://launchpad.net/appcenter | elementary-os/daily | appcenter | 0.1 (unstable) | Yes | No

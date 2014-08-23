@@ -39,4 +39,5 @@ Terminal | Terminal | A super lightweight, beautiful, and simple terminal | http
 
 Name | Generic Name | Description | Link | PPA | Executable Name | Latest Stable Version | Active
 -----|--------------|-------------|------|-----|-----------------|-----------------------|-------
+Vocal | Podcast Client | A simple podcast client for the modern desktop | https://launchpad.net/vocal | nathandyer/vocal-daily (unstable!) | vocal | In Developement | Yes
 Writer | Word Processor | Writer aims to be a super-simple, lightweight and integrated word processor | https://launchpad.net/writer | None | writer | In Developement | Yes

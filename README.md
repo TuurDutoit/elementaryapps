@@ -46,6 +46,7 @@ Terminal | Terminal | A super lightweight, beautiful, and simple terminal | http
 
 Name | Generic Name | Description | Link | PPA | Executable Name | Latest Stable Version | Active
 -----|--------------|-------------|------|-----|-----------------|-----------------------|-------
+Cable | IRC Client | Cable is a fabulous IRC client | https://launchpad.net/cable | gotwig/weekly | cable | In Developement | Unknown
 Debby | .deb installer | Simple vala application for installing debian packages via drag and drop and gdebi | https://launchpad.net/debby | None | debby | In Developement | Yes
 eUtility | Utilities | Switchboard plug designed to make user's lives easier | https://launchpad.net/eutility | donadigo/eutility | elementary-utility | In Developement | Yes
 Fantasy | e-Book Reader | A draft for a Elementary OS book reader | https://launchpad.net/fantasy | samuel-dolt/ppa | *fantasy* | In Developement | Yes

@@ -47,6 +47,7 @@ Terminal | Terminal | A super lightweight, beautiful, and simple terminal | http
 Name | Generic Name | Description | Link | PPA | Executable Name | Latest Stable Version | Active
 -----|--------------|-------------|------|-----|-----------------|-----------------------|-------
 Debby | .deb installer | Simple vala application for installing debian packages via drag and drop and gdebi | https://launchpad.net/debby | None | debby | In Developement | Yes
+eUtility | Utilities | Switchboard plug designed to make user's lives easier | https://launchpad.net/eutility | donadigo/eutility | elementary-utility | In Developement | Yes
 Fantasy | e-Book Reader | A draft for a Elementary OS book reader | https://launchpad.net/fantasy | samuel-dolt/ppa | *fantasy* | In Developement | Yes
 Manix | Comic Reader | A simple comic reader made for elementary OS | https://launchpad.net/manix | None | *manix* | In Developement | Yes
 Vocal | Podcast Client | A simple podcast client for the modern desktop | https://launchpad.net/vocal | nathandyer/vocal-daily (unstable!) | *vocal* | In Developement | Yes

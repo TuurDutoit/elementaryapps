@@ -38,6 +38,7 @@ Midori | Browser | Midori is a fast little WebKit browser with support for HTML5
 Pantheon Photos | Photo Viewer | The elementary continuation of Shotwell | https://launchpad.net/pantheon-photos | elementary-os/daily (unstable!) | *pantheon-photos* | In Developement
 Noise | Audio Player | Noise is a fast and beautiful GTK3 audio player with a focus on music and libraries | https://launchpad.net/noise | elementary-os/stable | noise | 0.3.0
 Scratch | Text Editor | The text editor that works | https://launchpad.net/scratch | elementary-os/stable | scratch-text-editor | 2.0.2
+Synopsis | Archive Manager | A simple and concise archive utility | https://launchpad.net/synopsis | None | Synopsis | In Developement | Unknown
 Terminal | Terminal | A super lightweight, beautiful, and simple terminal | https://launchpad.net/pantheon-terminal | elementary-os/stable | pantheon-terminal | 0.3.0.1
 
 
@@ -54,7 +55,6 @@ Fantasy | e-Book Reader | A draft for a Elementary OS book reader | https://laun
 Feedler | RSS Reader | A simple RSS reader for elementary | https://launchpad.net/feedler | feedler-hackers/daily (unstable!) | feedler | In Developement | Unknown
 Footnote | Notes | A beautiful, fast, and simple note taking app | https://launchpad.net/footnote | elementary-os/daily (unstable!) | footnote | In Developement | Unknown
 Manix | Comic Reader | A simple comic reader made for elementary OS | https://launchpad.net/manix | None | *manix* | In Developement | Yes
-Synopsis | Archive Manager | A simple and concise archive utility | https://launchpad.net/synopsis | None | Synopsis | In Developement | Unknown
 Vocal | Podcast Client | A simple podcast client for the modern desktop | https://launchpad.net/vocal | nathandyer/vocal-daily (unstable!) | *vocal* | In Developement | Yes
 Taxi | FTP Client | A simple to use FTP client | https://launchpad.net/taxi | None | *taxi* | In Developement | Yes
 Writer | Word Processor | Writer aims to be a super-simple, lightweight and integrated word processor | https://launchpad.net/writer | None | writer | In Developement | Yes

@@ -27,7 +27,7 @@ __Note:__ I do not recommend adding unstable ppa's/packages. They may break your
 
 Name | Generic Name | Description | Link | PPA | Executable Name | Latest Stable Version
 -----|--------------|-------------|------|-----|-----------------|----------------------
-AppCenter | App Store | A fast and beautiful app store | https://launchpad.net/appcenter | elementary-os/daily (unstable!) | appcenter | In Developement
+AppCenter | App Store | A fast and beautiful app store | https://launchpad.net/appcenter | None | appcenter | In Developement
 Audience | Video Player | A modern video player that brings the lessons learned from the web home to the desktop | https://launchpad.net/audience | elementary-os/daily (unstable!) | audience | In Developement
 Eidete | Screencaster | A simple screencasting app for the elementary project | https://launchpad.net/eidete | elementary-os/daily (unstable!) | eidete | In Developement
 Euclide | IDE | An IDE with a light GUI, based on CMake | https://launchpad.net/euclide | elementary-os/daily (unstable!) | euclide | In Developement

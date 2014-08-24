@@ -48,6 +48,7 @@ Name | Generic Name | Description | Link | PPA | Executable Name | Latest Stable
 -----|--------------|-------------|------|-----|-----------------|-----------------------|-------
 Debby | .deb installer | Simple vala application for installing debian packages via drag and drop and gdebi | https://launchpad.net/debby | None | debby | In Developement | Yes
 Fantasy | e-Book Reader | A draft for a Elementary OS book reader | https://launchpad.net/fantasy | samuel-dolt/ppa | fantasy | In Developement | Yes
+Manix | Comic Reader | A simple comic reader made for elementary OS | https://launchpad.net/manix | None | manix | In Developement | Yes
 Vocal | Podcast Client | A simple podcast client for the modern desktop | https://launchpad.net/vocal | nathandyer/vocal-daily (unstable!) | vocal | In Developement | Yes
 Taxi | FTP Client | A simple to use FTP client | https://launchpad.net/taxi | None | taxi | In Developement | Yes
 Writer | Word Processor | Writer aims to be a super-simple, lightweight and integrated word processor | https://launchpad.net/writer | None | writer | In Developement | Yes

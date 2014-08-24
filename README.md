@@ -38,6 +38,7 @@ Midori | Browser | Midori is a fast little WebKit browser with support for HTML5
 Pantheon Photos | Photo Viewer | The elementary continuation of Shotwell | https://launchpad.net/pantheon-photos | elementary-os/daily (unstable!) | *pantheon-photos* | In Developement
 Noise | Audio Player | Noise is a fast and beautiful GTK3 audio player with a focus on music and libraries | https://launchpad.net/noise | elementary-os/stable | noise | 0.3.0
 Scratch | Text Editor | The text editor that works | https://launchpad.net/scratch | elementary-os/stable | scratch-text-editor | 2.0.2
+Snap | Camera | A fast and beautiful camera app | https://launchpad.net/snap-elementary | elementary-os/daily (unstable!) | snap-photobooth | In Developement
 Synopsis | Archive Manager | A simple and concise archive utility | https://launchpad.net/synopsis | None | Synopsis | In Developement | Unknown
 Terminal | Terminal | A super lightweight, beautiful, and simple terminal | https://launchpad.net/pantheon-terminal | elementary-os/stable | pantheon-terminal | 0.3.0.1
 

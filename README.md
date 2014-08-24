@@ -50,6 +50,7 @@ Debby | .deb installer | Simple vala application for installing debian packages 
 eUtility | Utilities | Switchboard plug designed to make user's lives easier | https://launchpad.net/eutility | donadigo/eutility | elementary-utility | In Developement | Yes
 Fantasy | e-Book Reader | A draft for a Elementary OS book reader | https://launchpad.net/fantasy | samuel-dolt/ppa | *fantasy* | In Developement | Yes
 Manix | Comic Reader | A simple comic reader made for elementary OS | https://launchpad.net/manix | None | *manix* | In Developement | Yes
+Synopsis | Archive Manager | A simple and concise archive utility | https://launchpad.net/synopsis | None | Synopsis | In Developement | Unknown
 Vocal | Podcast Client | A simple podcast client for the modern desktop | https://launchpad.net/vocal | nathandyer/vocal-daily (unstable!) | *vocal* | In Developement | Yes
 Taxi | FTP Client | A simple to use FTP client | https://launchpad.net/taxi | None | *taxi* | In Developement | Yes
 Writer | Word Processor | Writer aims to be a super-simple, lightweight and integrated word processor | https://launchpad.net/writer | None | writer | In Developement | Yes

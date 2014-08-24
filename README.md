@@ -27,6 +27,7 @@ Name | Generic Name | Description | Link | PPA | Executable Name | Latest Stable
 AppCenter | App Store | A fast and beautiful app store | https://launchpad.net/appcenter | elementary-os/daily (unstable!) | appcenter | In Developement
 Audience | Video Player | A modern video player that brings the lessons learned from the web home to the desktop | https://launchpad.net/audience | audience-members/ppa | audience | In Developement
 Eidete | Screencaster | A simple screencasting app for the elementary project | https://launchpad.net/eidete | elementary-os/daily | eidete | In Developement
+Euclide | IDE | An IDE with a light GUI, based on CMake | https://launchpad.net/euclide | elementary-os/daily | euclide | In Developement
 Files | File Browser | The simple, powerful, and sexy file manager from elementary | https://launchpad.net/pantheon-files | elementary-os/stable | pantheon-files | 0.1.6
 Maya | Calendar | A slim, lightweight GTK+3 calendar app | https://launchpad.net/maya | elementary-os/stable | maya-calendar | 0.3
 Midori | Browser | Midori is a fast little WebKit browser with support for HTML5 | https://launchpad.net/midori | elementary-os/stable | midori | 0.5.7

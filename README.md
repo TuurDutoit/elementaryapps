@@ -47,11 +47,11 @@ Terminal | Terminal | A super lightweight, beautiful, and simple terminal | http
 Name | Generic Name | Description | Link | PPA | Executable Name | Latest Stable Version | Active
 -----|--------------|-------------|------|-----|-----------------|-----------------------|-------
 Birdie | Twitter Client | A beautiful Twitter client for GNU/Linux | https://birdieapp.github.io | birdie-team/stable | birdie | 1.1 | Yes
-Cable | IRC Client | Cable is a fabulous IRC client | https://launchpad.net/cable | gotwig/weekly | cable | In Developement | Unknown
+Cable | IRC Client | Cable is a fabulous IRC client | https://launchpad.net/cable | gotwig/weekly (unstable!) | cable | In Developement | Unknown
 Debby | .deb installer | Simple vala application for installing debian packages via drag and drop and gdebi | https://launchpad.net/debby | None | debby | In Developement | Yes
-eUtility | Utilities | Switchboard plug designed to make user's lives easier | https://launchpad.net/eutility | donadigo/eutility | elementary-utility | In Developement | Yes
-Fantasy | e-Book Reader | A draft for a Elementary OS book reader | https://launchpad.net/fantasy | samuel-dolt/ppa | *fantasy* | In Developement | Yes
-Footnote | Notes | A beautiful, fast, and simple note taking app | https://launchpad.net/footnote | elementary-os/daily | footnote | In Developement | Unknown
+eUtility | Utilities | Switchboard plug designed to make user's lives easier | https://launchpad.net/eutility | donadigo/eutility (unstable!) | elementary-utility | In Developement | Yes
+Fantasy | e-Book Reader | A draft for a Elementary OS book reader | https://launchpad.net/fantasy | samuel-dolt/ppa (unstable!) | *fantasy* | In Developement | Yes
+Footnote | Notes | A beautiful, fast, and simple note taking app | https://launchpad.net/footnote | elementary-os/daily (unstable!) | footnote | In Developement | Unknown
 Manix | Comic Reader | A simple comic reader made for elementary OS | https://launchpad.net/manix | None | *manix* | In Developement | Yes
 Synopsis | Archive Manager | A simple and concise archive utility | https://launchpad.net/synopsis | None | Synopsis | In Developement | Unknown
 Vocal | Podcast Client | A simple podcast client for the modern desktop | https://launchpad.net/vocal | nathandyer/vocal-daily (unstable!) | *vocal* | In Developement | Yes

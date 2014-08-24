@@ -23,7 +23,7 @@ __Note:__ I do not recommend adding unstable ppa's/packages. They may break your
 
 
 
-### Default Apps
+### elementary Apps
 
 Name | Generic Name | Description | Link | PPA | Executable Name | Latest Stable Version
 -----|--------------|-------------|------|-----|-----------------|----------------------

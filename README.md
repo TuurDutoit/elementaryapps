@@ -49,6 +49,7 @@ Name | Generic Name | Description | Link | PPA | Executable Name | Latest Stable
 Debby | .deb installer | Simple vala application for installing debian packages via drag and drop and gdebi | https://launchpad.net/debby | None | debby | In Developement | Yes
 eUtility | Utilities | Switchboard plug designed to make user's lives easier | https://launchpad.net/eutility | donadigo/eutility | elementary-utility | In Developement | Yes
 Fantasy | e-Book Reader | A draft for a Elementary OS book reader | https://launchpad.net/fantasy | samuel-dolt/ppa | *fantasy* | In Developement | Yes
+Footnote | Notes | A beautiful, fast, and simple note taking app | https://launchpad.net/footnote | elementary-os/daily | footnote | In Developement | Unknown
 Manix | Comic Reader | A simple comic reader made for elementary OS | https://launchpad.net/manix | None | *manix* | In Developement | Yes
 Synopsis | Archive Manager | A simple and concise archive utility | https://launchpad.net/synopsis | None | Synopsis | In Developement | Unknown
 Vocal | Podcast Client | A simple podcast client for the modern desktop | https://launchpad.net/vocal | nathandyer/vocal-daily (unstable!) | *vocal* | In Developement | Yes

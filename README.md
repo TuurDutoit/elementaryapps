@@ -31,6 +31,7 @@ Euclide | IDE | An IDE with a light GUI, based on CMake | https://launchpad.net/
 Files | File Browser | The simple, powerful, and sexy file manager from elementary | https://launchpad.net/pantheon-files | elementary-os/stable | pantheon-files | 0.1.6
 Maya | Calendar | A slim, lightweight GTK+3 calendar app | https://launchpad.net/maya | elementary-os/stable | maya-calendar | 0.3
 Midori | Browser | Midori is a fast little WebKit browser with support for HTML5 | https://launchpad.net/midori | elementary-os/stable | midori | 0.5.7
+Pantheon Photos | Photo Viewer | The elementary continuation of Shotwell | https://launchpad.net/pantheon-photos | elementary-os/daily | pantheon-photos | In Developement
 Noise | Audio Player | Noise is a fast and beautiful GTK3 audio player with a focus on music and libraries | https://launchpad.net/noise | elementary-os/stable | noise | 0.3.0
 Scratch | Text Editor | The text editor that works | https://launchpad.net/scratch | elementary-os/stable | scratch-text-editor | 2.0.2
 Terminal | Terminal | A super lightweight, beautiful, and simple terminal | https://launchpad.net/pantheon-terminal | elementary-os/stable | pantheon-terminal | 0.3.0.1

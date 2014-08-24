@@ -1,7 +1,7 @@
 elementary Apps
 ==============
 
-A list of apps designed for elementary OS
+A list of apps designed for elementary OS.
 
 This is still a work in progress. Pull requests are very welcome!
 

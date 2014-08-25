@@ -39,7 +39,7 @@ Pantheon Photos | Photo Viewer | The elementary continuation of Shotwell | https
 Noise | Audio Player | Noise is a fast and beautiful GTK3 audio player with a focus on music and libraries | https://launchpad.net/noise | elementary-os/stable | noise | 0.3.0
 Scratch | Text Editor | The text editor that works | https://launchpad.net/scratch | elementary-os/stable | scratch-text-editor | 2.0.2
 Snap | Camera | A fast and beautiful camera app | https://launchpad.net/snap-elementary | elementary-os/daily (unstable!) | snap-photobooth | In Developement
-Synopsis | Archive Manager | A simple and concise archive utility | https://launchpad.net/synopsis | None | Synopsis | In Developement | Unknown
+Synopsis | Archive Manager | A simple and concise archive utility | https://launchpad.net/synopsis | None | Synopsis | In Developement | Yes
 Terminal | Terminal | A super lightweight, beautiful, and simple terminal | https://launchpad.net/pantheon-terminal | elementary-os/stable | pantheon-terminal | 0.3.0.1
 
 
@@ -55,7 +55,7 @@ eUtility | Utilities | Switchboard plug designed to make user's lives easier | h
 Fantasy | e-Book Reader | A draft for a Elementary OS book reader | https://launchpad.net/fantasy | samuel-dolt/ppa (unstable!) | *fantasy* | In Developement | Yes
 Feedler | RSS Reader | A simple RSS reader for elementary | https://launchpad.net/feedler | feedler-hackers/daily (unstable!) | feedler | In Developement | Unknown
 Footnote | Notes | A beautiful, fast, and simple note taking app | https://launchpad.net/footnote | elementary-os/daily (unstable!) | footnote | In Developement | Unknown
-Manix | Comic Reader | A simple comic reader made for elementary OS | https://launchpad.net/manix | None | *manix* | In Developement | Yes
+Kora | Comic Reader | A simple comic reader made for elementary OS | https://launchpad.net/manix | None | *manix* | In Developement | Yes
 Vocal | Podcast Client | A simple podcast client for the modern desktop | https://launchpad.net/vocal | nathandyer/vocal-daily (unstable!) | *vocal* | In Developement | Yes
 Taxi | FTP Client | A simple to use FTP client | https://launchpad.net/taxi | None | *taxi* | In Developement | Yes
 Writer | Word Processor | Writer aims to be a super-simple, lightweight and integrated word processor | https://launchpad.net/writer | None | writer | In Developement | Yes

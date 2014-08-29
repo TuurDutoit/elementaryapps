@@ -31,7 +31,7 @@ If you know very well how the app should behave, have a mockup, etc., you can ma
 
 If you have some time and know the app well enough, please make a file for the app in the `Apps` directory (in your own fork, of course). Look at the other files in that directory to get an idea of the markup and the kind of info that is needed. When you're ready, send me a pull request and I'll be very happy to merge it in.
 
-If you don't have time, don't know the app well enough, or just don't want to do the above, simply open an issue in the [issue tracker][issues] with the `new-app` label, already providing as much info as possible; that makes it easier for me. I'll try to add your app as soon as possible to the repo.
+If you don't have time, don't know the app well enough, or just don't want to do the above, simply open an issue in the [issue tracker][issues] with the `add-app` label, already providing as much info as possible; that makes it easier for me. I'll try to add your app as soon as possible to the repo.
 
 
 ####I found a typo somewhere.

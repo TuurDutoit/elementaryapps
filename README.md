@@ -15,7 +15,7 @@ The `Comparison.md` file contains a table laying out some data about all the exi
 
 In the `Apps` directory, you can find some more info about all the existing apps. Each app has its own file, named accordingly. If you want to read up on a specific app, this directory is the way to go.
 
-In the `Requests` directory, you will find some requests for apps that do not yet exist, one file per request. Those files are more like steuctured whiteboards, containing any info relevant to the request, like mockups, suggestions for a name, a list of features, description of the workflow, etc.
+In the `Requests` directory, you will find some requests for apps that do not yet exist, one file per request. Those files are more like structured whiteboards, containing any info relevant to the request, like mockups, suggestions for a name, a list of features, description of the workflow, etc. This directory exists for developers to see which applications users want for their systems.
 
 
 ###Contributing

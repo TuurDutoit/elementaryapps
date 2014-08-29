@@ -24,7 +24,7 @@ In the `Requests` directory, you will find some requests for apps that do not ye
 
 If you just have a vague idea, open an issue in the [issue tracker][issues] with the `request` label. Now, the community can give some feedback, request features and discuss the while thing. When the requesy has been worked out some more, procedd to the instructions in the next paragraph.
 
-If you know very well how the app should behave, have a mockup, etc., you can make a file in the `requests` directory (in your own fork, of course) and send me a pull request. I'll be happy to merge it in! Optionally, open a issue in the [issue tracker][issues] with the `request` label.
+If you know very well how the app should behave, have a mockup, etc., you can make a file in the `Requests` directory (in your own fork, of course) and send me a pull request. I'll be happy to merge it in! Optionally, open a issue in the [issue tracker][issues] with the `request` label.
 
 
 ####I know an existing app that is not yet in the `Apps` directory.

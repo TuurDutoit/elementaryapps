@@ -22,16 +22,16 @@ In the `Requests` directory, you will find some requests for apps that do not ye
 
 ####I want to request an app
 
-If you just have a vague idea, open an issue in the [issue tracker][issues] with the `request` label. Now, the community can give some feedback, request features and discuss the while thing. When the requesy has been worked out some more, procedd to the instructions in the next paragraph.
+If you just have a vague idea, open an issue in the [issue tracker][issues] with the `request` label. Now, the community can give some feedback, request features and discuss the whole thing. When the request has been worked out some more, proceed to the instructions in the next paragraph.
 
 If you know very well how the app should behave, have a mockup, etc., you can make a file in the `Requests` directory (in your own fork, of course) and send me a pull request. I'll be happy to merge it in! Optionally, open a issue in the [issue tracker][issues] with the `request` label.
 
 
 ####I know an existing app that is not yet in the `Apps` directory.
 
-If you have some time and know the app well enough, please make a file for the app in the `Apps` directory (in your own fork, of course). Look at the other files in that directory to get an idea of the markup and the kind of info that is needed. When you're ready, send mz a pull request and I'll be very happt to merge it in.
+If you have some time and know the app well enough, please make a file for the app in the `Apps` directory (in your own fork, of course). Look at the other files in that directory to get an idea of the markup and the kind of info that is needed. When you're ready, send me a pull request and I'll be very happy to merge it in.
 
-If you don't have time, dont' know the app well enough, or just don't want to do the above, simply open an issue in the [issue tracker][issues] with the `new-app` label, already providing as much info as possible; that makes it easier for me. I'll try to add your app as soon as possible to the repo.
+If you don't have time, don't know the app well enough, or just don't want to do the above, simply open an issue in the [issue tracker][issues] with the `new-app` label, already providing as much info as possible; that makes it easier for me. I'll try to add your app as soon as possible to the repo.
 
 
 ####I found a typo somewhere.
@@ -45,6 +45,8 @@ If you want to correct it for me, do that in your own fork, and send me a pull r
 
 For other issues, you can always open an issue in the [issue tracker][issues], or mail me at: [me@tuurdutoit.be][mailto: me@tuurdutoit.be].
 
+
+__Enjoy your stay!__
 
 
 

@@ -1,4 +1,4 @@
-elementary Apps
+Comparison
 ==============
 
 A list of apps designed for elementary OS.

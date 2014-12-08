@@ -59,6 +59,7 @@ Feedler | RSS Reader | A simple RSS reader for elementary | Unknown | https://la
 Footnote | Notes | A beautiful, fast, and simple note taking app | Unknown | https://launchpad.net/footnote | elementary-os/daily (unstable!) | *footnote* | In Developement | Unknown
 Foto | Photo Viewer | Fast, simple, beautiful, and it's free | Erasmo Marin | https://erasmo-marin.github.io/foto | erasmo-marin/foto-1.0 (unstable?) | *foto* | 1.0 | Unknown
 Kora | Comic Reader | A simple comic reader made for elementary OS | Shawn McTear | https://launchpad.net/manix | None | *manix* | In Developement | Yes
+UberWriter | Markdown Editor | Beautiful, distraction free word processor | Wolf Vollprecht | http://uberwriter.wolfvollprecht.de | w-vollprecht/ppa | *uberwriter* | 12.11 | Unknown
 Vocal | Podcast Client | A simple podcast client for the modern desktop | Nathan Dyer | https://launchpad.net/vocal | nathandyer/vocal-daily (unstable!) | *vocal* | In Developement | Yes
 Taxi | FTP Client | A simple to use FTP client | Kiran Hampal | https://launchpad.net/taxi | None | *taxi* | In Developement | Yes
 Writer | Word Processor | Writer aims to be a super-simple, lightweight and integrated word processor | Tuur Dutoit, Anthony Huben | https://launchpad.net/writer | None | *writer* | In Developement | Yes

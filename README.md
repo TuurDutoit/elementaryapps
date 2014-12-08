@@ -43,7 +43,7 @@ If you want to correct it for me, do that in your own fork, and send me a pull r
 
 ####Other questions
 
-For other issues, you can always open an issue in the [issue tracker][issues], or mail me at: [me@tuurdutoit.be][mailto: me@tuurdutoit.be].
+For other issues, you can always open an issue in the [issue tracker](issues), or mail me at: [me@tuurdutoit.be](mailto: me@tuurdutoit.be]).
 
 
 __Enjoy your stay!__

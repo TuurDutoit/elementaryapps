@@ -50,12 +50,13 @@ Name | Generic Name | Description | Link | PPA | Executable Name | Latest Stable
 -----|--------------|-------------|------|-----|-----------------|-----------------------|-------
 Birdie | Twitter Client | A beautiful Twitter client for GNU/Linux | https://birdieapp.github.io | birdie-team/stable | birdie | 1.1 | Yes
 Cable | IRC Client | Cable is a fabulous IRC client | https://launchpad.net/cable | gotwig/weekly (unstable!) | cable | In Developement | Unknown
+Calculator | Calculator | A simple Calculator for Elementary OS | https://launchpad.net/elementarycalculator | siasola/ppa (unstable?) | elementary-calculator | 0.1-r18 (unstable?) | Unknown
 Debby | .deb installer | Simple vala application for installing debian packages via drag and drop and gdebi | https://launchpad.net/debby | None | debby | In Developement | Yes
 eUtility | Utilities | Switchboard plug designed to make user's lives easier | https://launchpad.net/eutility | donadigo/eutility (unstable!) | elementary-utility | In Developement | Yes
 Fantasy | e-Book Reader | A draft for a Elementary OS book reader | https://launchpad.net/fantasy | samuel-dolt/ppa (unstable!) | *fantasy* | In Developement | Yes
 Feedler | RSS Reader | A simple RSS reader for elementary | https://launchpad.net/feedler | feedler-hackers/daily (unstable!) | feedler | In Developement | Unknown
 Footnote | Notes | A beautiful, fast, and simple note taking app | https://launchpad.net/footnote | elementary-os/daily (unstable!) | footnote | In Developement | Unknown
-Foto | Photo Viewer | Fast, simple, beautiful, and it's free | https://erasmo-marin.github.io/foto | erasmo-marin/foto-1.0 | foto | Beta | Unknown
+Foto | Photo Viewer | Fast, simple, beautiful, and it's free | https://erasmo-marin.github.io/foto | erasmo-marin/foto-1.0 (unstable?) | foto | 1.0 | Unknown
 Kora | Comic Reader | A simple comic reader made for elementary OS | https://launchpad.net/manix | None | *manix* | In Developement | Yes
 Vocal | Podcast Client | A simple podcast client for the modern desktop | https://launchpad.net/vocal | nathandyer/vocal-daily (unstable!) | *vocal* | In Developement | Yes
 Taxi | FTP Client | A simple to use FTP client | https://launchpad.net/taxi | None | *taxi* | In Developement | Yes

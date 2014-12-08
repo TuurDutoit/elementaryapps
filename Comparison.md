@@ -13,7 +13,7 @@ This is still a work in progress. Pull requests are very welcome!
 * __Generic Name:__ The 'type' of the app, like `word processor` or `video player`.
 * __Description:__ A short description of what the app does.
 * __Link:__ A link to the homepage of the app.
-* __PPA:__ The name of the most important PPA containing the app. `None` if the app cnnot be installed via a PPA.
+* __PPA:__ The name of the most important PPA containing the app. `None` if the app cannot be installed via a PPA.
 * __Executable Name:__ The name of the executable. This is the name you should use while installing the app (or running it from a terminal). Names in *italic* are not sure to be correct.
 * __Latest Stable Version:__ Duh-uh
 * __Active:__ Whether the app is still kept up to date.

@@ -58,6 +58,7 @@ Fantasy | e-Book Reader | A draft for a Elementary OS book reader | Samuel Dolt 
 Feedler | RSS Reader | A simple RSS reader for elementary | Unknown | https://launchpad.net/feedler | feedler-hackers/daily (unstable!) | *feedler* | In Developement | Unknown
 Footnote | Notes | A beautiful, fast, and simple note taking app | Unknown | https://launchpad.net/footnote | elementary-os/daily (unstable!) | *footnote* | In Developement | Unknown
 Foto | Photo Viewer | Fast, simple, beautiful, and it's free | Erasmo Marin | https://erasmo-marin.github.io/foto | erasmo-marin/foto-1.0 (unstable?) | *foto* | 1.0 | Unknown
+Go For It! | To-do list | Simple, stylish productivity app, with to-do lost and timer | Manuel Kehl | http://manuel-kehl.de/projects/go-for-it | mank319/go-for-it | *go-for-it* | 1.0 | Yes
 Kora | Comic Reader | A simple comic reader made for elementary OS | Shawn McTear | https://launchpad.net/manix | None | *manix* | In Developement | Yes
 Stranded | Game | A beautiful point-and-click adventure game developed on and for elementary OS | Peter Moorhead | http://www.petermoorhead.com/stranded | None | Unknown | Unknown | Unknown
 UberWriter | Markdown Editor | Beautiful, distraction free word processor | Wolf Vollprecht | http://uberwriter.wolfvollprecht.de | w-vollprecht/ppa | *uberwriter* | 12.11 | Unknown
